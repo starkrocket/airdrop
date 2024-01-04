@@ -1,0 +1,19 @@
+[package]
+name = "airdrop"
+version = "0.1.0"
+edition = "2024_01"
+
+[lib]
+
+
+[dependencies]
+starknet = "2.1.0"
+
+
+openzeppelin = { git = "https://github.com/OpenZeppelin/cairo-contracts.git", tag = "v0.8.0-beta.0" }
+
+
+[[target.starknet-contract]]
+sierra = true
+casm = true
+casm-add-pythonic-hints = true
