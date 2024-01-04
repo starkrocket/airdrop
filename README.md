@@ -27,4 +27,4 @@ We welcome contributions from the community! Please read our contributing guidel
 
 
 ### License
-Stark Rocket is released under Apache-2.0, providing freedom and openness to the developer community.``
+Stark Rocket is released under Apache-2.0, providing freedom and openness to the developer community.
